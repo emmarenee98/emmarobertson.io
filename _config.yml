@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_6401.png"
+  avatar           : "profile.png"
   name             : "Emma Robertson"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Physical Oceanography"
